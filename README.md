@@ -1,6 +1,9 @@
-### Hi there, I'm Rami Alzayat 👋
+[![MasterHead](https://user-images.githubusercontent.com/18601660/150222683-d0fb0803-4ed4-43e8-ad81-d789c8197a3b.png)](https://github.com/RamiAlzayat)
+
 
 <!--
+### Hi there, I'm Rami Alzayat 👋
+
 **RamiAlzayat/RamiAlzayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
