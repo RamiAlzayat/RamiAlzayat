@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamiAlzayat&theme=dark)](https://git.io/streak-stats)
 
 -->
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://rami.alzayat.de/)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://rami.alzayat.de/)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
 
