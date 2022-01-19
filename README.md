@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Rami Alzayat 👋
 
 <!--
 **RamiAlzayat/RamiAlzayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamiAlzayat&theme=dark)](https://git.io/streak-stats)
 
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RamiAlzayat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
