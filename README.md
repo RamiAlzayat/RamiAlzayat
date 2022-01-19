@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rami</h1>
 <h3 align="center">A passionate frontend developer from Berlin</h3>
 
-- 🔭 I’m currently working with [Sofatutor](sofatutor.com)
+- 🔭 I’m currently working with Sofatutor
 
 - 🌱 I’m currently learning **Typescript**
 
