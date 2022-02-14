@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img src="https://api.daily.dev/devcards/f32749b184b1402996f19bf74c0a07b8.png?r=57z" width="400" alt="Rami's Dev Card"/>
+<img src="https://api.daily.dev/devcards/f32749b184b1402996f19bf74c0a07b8.png?r=57z" width="100" alt="Rami's Dev Card"/>
 
 <br/>
 
