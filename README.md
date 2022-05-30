@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 My website [https://www.rami.alzayat.de](https://www.rami.alzayat.de)
 
-- 💬 Ask me about **React, RN, PI, JS, CSS, HTML, Linux, Docker**
+- 💬 Ask me about **React, RN, JS, CSS, HTML, Linux, Docker, PI's**
 
 - 📫 How to reach me **ramy.za.rr@gmail.com**
 
